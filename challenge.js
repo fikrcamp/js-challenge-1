@@ -9,3 +9,5 @@ let MohamedHigherBMI = true;
 
 console.log((mBMI = Mmass / (Mheight * Mheight)));
 console.log((aBMI = Amass / (Aheight * Aheight)));
+
+console.log(MohamedHigherBMI);
